@@ -1,13 +1,13 @@
-Exploratory Data Analysis for Retail Sector
+# Exploratory Data Analysis for Retail Sector
 
-1. Project Overview:
+# 1. Project Overview:
 This project presents an Exploratory Data Analysis (EDA) of retail sales data for the years 2022–2024, using Python.
 The goal is to uncover sales trends, identify regional and category-wise performance patterns, assess the impact of discounts and promotions, and highlight key business insights that can drive data-backed decisions for marketing and operations teams.
 
-2. Business Problem:
+# 2. Business Problem:
 The core challenge was to identify sales bottlenecks and inefficiencies across regions and categories. The findings were used to guide pricing, promotional, and operational strategies aimed at maximizing revenue while minimizing returns
 
-3. Methodology
+# 3. Methodology
 Exploratory Data Analysis (EDA) was performed using Python to diagnose performance issues. The raw retail sales data was first cleaned and sanitized before being analyzed.
 The analysis tracked total and net sales across years, regions, and product categories, and specifically focused on the following areas:
 •	Regions: North, South, East, West
@@ -24,7 +24,7 @@ Environment	Jupyter Notebook
 Techniques	Data Cleaning, EDA, Visualization, Trend Analysis
 
 
-4. Executive Summary & Key Insights:
+# 4. Executive Summary & Key Insights:
 Performance Highlights:
 •	South and East regions are strategic focus areas, accounting for nearly 60% of total revenue.
 •	South and East were the top-performing regions, showing consistent growth and strong contribution to revenue.
@@ -41,7 +41,7 @@ o	5–30% discount led to increasing sales.
 •	Despite increased sales, the North region also had the highest return rate among all regions. Returns also rose in 2024.
 •	Promotions were ultimately not effective in driving sustainable net sales in the North.
 
-5. Results and Business Recommendation:
+# 5. Results and Business Recommendation:
 I recommend that the Marketing and Operations team implement a few adjustments that will lead to higher conversion from this region:
 1.	Reallocate marketing efforts: Focus marketing efforts toward the South and East regions, as they are the primary revenue drivers
 2.	Review North region strategy:
