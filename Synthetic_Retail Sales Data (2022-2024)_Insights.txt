@@ -1,0 +1,46 @@
+Overall:
+
+Total sales witnessed a decline from 2022 to 2023, however it remained flat in 2024
+
+Various factors affecting sales:
+    1. If units sold after promotion to be considered then, East and South responded positively after promotions
+    2. During Weekends: 33% sales were made during weekends. Rather sales constantly declined across the years during weekends
+			North and West witnessed decline
+			Home and Electronics declined in 2024, after rising in 2023 from 2022
+    3. Holidays also did not play a major role in driving sales
+
+Discounting affecting sales:
+    1. Major sales occured without discounts
+    2. Sales increased in high discounting (15%-30%) from 2023 to 2024. East, North, and South regions reacted positively to the discounts, 
+    whereas Western region saw a constant decline in sales
+    3. Northern region consumers were sensitive to discounting:
+        No Discount (0%): Decreasing sales
+        Low and High Discounting(5%-30%): Sales Increased
+        However, Return Rate was observed to be increasing in 2024 from 2023.
+        Additionally, YOY revenue growth rate also witnessed a decline across the years
+
+Recommendation: After deep dive in the North region's categorical data. Electronics segment was the major contributor of increasing return rate.
+ 		It declined in 2023, but eventually rose in 2024 in the North
+		Major products returned were prod_039, and prod_005. Same was seen for both store_07, and store_08
+
+
+Overall Sales in region:
+    1. South remained top performing region in terms of sales, whereas West witnessed lowest sales across the years
+    2. North witnessed constant decline across the years: Due to its increasing return rate of return, further promotions did not found to be fruitful in this region as well
+    3. East and West regions observed a stable growth across the years
+      
+Overall Sales in category:
+    1. Clothing and Home are the top selling categories across the years, with electronics next in line
+    2. Whereas, Beauty and Sports are the least sold products
+    3. Clothing has seen a decline in its return rate, Whereas Home segment was flat in 2024
+    
+Pricing Analysis:
+    1. Revenue per transaction increased across the years
+    2. Across revenue bins Low, and Lower-Mid Revenue were the highest contributors
+    3. Promotion effect on Revenue: 
+        Revenue from South declined after promotions, whereas it was increasing before promotions
+        East and West were increasing irrespective of promotions
+        North was decling irrespective of promotions
+        
+        
+    
